@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 正在备考软考
+- 🌱 职业生涯末期
 
 <!--
 **sfeer/sfeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
